@@ -27,8 +27,11 @@ This resource can be particularly useful for the following research topics:
 
 ## Proof-of-concept
 The proposed method proved to be language independent as it was firstly successfully applied to the Croatian web corpus fHrWaC:
+
 https://takelab.fer.hr/data/fhrwac/
+
 and then to several other languages from the OpenSubtitles 2013 corpora:
+
 https://opus.nlpl.eu/OpenSubtitles2013.php
 
 For basic use of the supported methods, you can refer to the commented code snippets provided in the *Program.cs* file.
